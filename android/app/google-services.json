@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285241430487",
+    "project_id": "user-profile-manager-84b7b",
+    "storage_bucket": "user-profile-manager-84b7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285241430487:android:6287cf5678a4760d92bb92",
+        "android_client_info": {
+          "package_name": "com.example.user_profile_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM4c_1naj4XZe2K8uHxoyz-fG2578M5os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
